@@ -1,5 +1,5 @@
 # The Montserrat Font Project
-To use this font as a webfont in base64, ```montserrat.css``` and ```montserratalternatesis``` included.
+To use this font as a webfont in base64, ```montserrat.css``` and ```montserratalternate.css``` included.
 
 ## How to use
 ### 1. @import
