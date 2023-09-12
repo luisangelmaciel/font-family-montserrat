@@ -30,6 +30,21 @@ Then we can use it to style elements:
 .MontserratAlternates-ExtraBoldItalic {font-family: "MontserratAlternates-ExtraBoldItalic";}
 .MontserratAlternates-Black {font-family: 'MontserratAlternates-Black';}
 .MontserratAlternates-BlackItalic {font-family: 'MontserratAlternates-BlackItalic';}
+
+.Montserrat-BlackItalic {font-family: "Montserrat-BlackItalic";}
+.Montserrat-Black {font-family: "Montserrat-Black";}
+.Montserrat-ExtraBoldItalic {font-family: "Montserrat-ExtraBoldItalic";}
+.Montserrat-Bold {font-family: "Montserrat-Bold";}
+.Montserrat-BoldItalic {font-family: "Montserrat-BoldItalic";}
+.Montserrat-Bold {font-family: "Montserrat-Bold";}
+.Montserrat-SemiBoldItalic {font-family: "Montserrat-SemiBoldItalic";}
+.Montserrat-SemiBold {font-family: "Montserrat-SemiBold";}
+.Montserrat-MediumItalic {font-family: "Montserrat-MediumItalic";}
+.Montserrat-Medium {font-family: "Montserrat-Medium";}
+.Montserrat-Italic {font-family: "Montserrat-Italic";}
+.Montserrat-Regular {font-family: "Montserrat-Regular";}
+.Montserrat-LightItalic {font-family: "Montserrat-LightItalic";}
+
 ```
 
 ### 2. \<link>ing a stylesheet
@@ -60,4 +75,18 @@ Then we can use it to style elements:
 .MontserratAlternates-ExtraBoldItalic {font-family: "MontserratAlternates-ExtraBoldItalic";}
 .MontserratAlternates-Black {font-family: 'MontserratAlternates-Black';}
 .MontserratAlternates-BlackItalic {font-family: 'MontserratAlternates-BlackItalic';}
+
+.Montserrat-BlackItalic {font-family: "Montserrat-BlackItalic";}
+.Montserrat-Black {font-family: "Montserrat-Black";}
+.Montserrat-ExtraBoldItalic {font-family: "Montserrat-ExtraBoldItalic";}
+.Montserrat-Bold {font-family: "Montserrat-Bold";}
+.Montserrat-BoldItalic {font-family: "Montserrat-BoldItalic";}
+.Montserrat-Bold {font-family: "Montserrat-Bold";}
+.Montserrat-SemiBoldItalic {font-family: "Montserrat-SemiBoldItalic";}
+.Montserrat-SemiBold {font-family: "Montserrat-SemiBold";}
+.Montserrat-MediumItalic {font-family: "Montserrat-MediumItalic";}
+.Montserrat-Medium {font-family: "Montserrat-Medium";}
+.Montserrat-Italic {font-family: "Montserrat-Italic";}
+.Montserrat-Regular {font-family: "Montserrat-Regular";}
+.Montserrat-LightItalic {font-family: "Montserrat-LightItalic";}
 ```
