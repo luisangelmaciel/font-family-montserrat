@@ -4,7 +4,7 @@ To use this font as a webfont in base64, ```montserrat.css``` and ```montserrata
 ## Demo
 ### Use in class
 
-1/2 <a href="https://codepen.io/luisangelmaciel/full/vYvmjwM" target="_blank">Montserrat</a>
+1/2 <a href="https://codepen.io/luisangelmaciel/full/vYvmjwM" target="_blank">Montserrat</a><br>
 2/2 <a href="https://codepen.io/luisangelmaciel/full/VwqbXwj" target="_blank">Montserrat Alternates</a>
 
 ## How to use
