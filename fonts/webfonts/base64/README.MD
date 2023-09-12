@@ -1,6 +1,12 @@
 # The Montserrat Font Project
 To use this font as a webfont in base64, ```montserrat.css``` and ```montserratalternate.css``` included.
 
+## Demo
+### Use in class
+
+1/2 <a href="https://codepen.io/luisangelmaciel/full/vYvmjwM" target="_blank">Montserrat</a>
+2/2 <a href="https://codepen.io/luisangelmaciel/full/VwqbXwj" target="_blank">Montserrat Alternates</a>
+
 ## How to use
 ### 1. @import
 You can import the file into your stylesheet as follows:
